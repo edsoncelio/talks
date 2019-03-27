@@ -9,6 +9,7 @@ Repositório com materiais e links para as palestras/workshops que apresentei em
 - Roadsec - [Python + Linux: babysteps para criação de suas ferramentas para pentest]()
 
 ## 2017
+----
 
 ### Outros (apresentados em grupos na faculdade)
 - Introdução ao Git e Github - 
