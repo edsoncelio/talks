@@ -8,7 +8,6 @@ Repositório com materiais e links para as palestras/workshops que apresentei em
 - SECOMP UVA - [E se ao invés de Dev e Ops for DevOps? Uma introdução a cultura DevOps]()
 - Roadsec - [Python + Linux: babysteps para criação de suas ferramentas para pentest]()
 
-## 2017
 ----
 
 ### Outros (apresentados em grupos na faculdade)
