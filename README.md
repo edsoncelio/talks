@@ -8,9 +8,9 @@ Repositório com materiais e links para as palestras/workshops que apresentei em
 ## 2018
 1. **LACNIC 29** - [Modelo de nube auto-hospedable: una alternativa para el uso de aplicaciones en la nube](https://github.com/edsoncelio/talks/blob/master/slides/Apresenta__o_LACNIC_29.pdf)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=34VJ8zorj0I
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=34VJ8zorj0I
 " target="_blank"><img src="http://img.youtube.com/vi/34VJ8zorj0I/0.jpg" 
-alt="Lacnic 29" width="240" height="180" border="10" /></a>
+alt="Lacnic 29" width="240" height="180" border="10" /></a></p>
 
 2. **SECOMP UVA** - [E se ao invés de Dev e Ops for DevOps? Uma introdução a cultura DevOps](https://github.com/edsoncelio/talks/blob/master/slides/SECOMP%202018.pptx)
 
