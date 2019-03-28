@@ -8,7 +8,7 @@ Repositório com materiais e links para as palestras/workshops que apresentei em
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=34VJ8zorj0I
 " target="_blank"><img src="http://img.youtube.com/vi/34VJ8zorj0I/0.jpg" 
-alt="Lacnic 29" width="240" height="180" border="10" />Video</a>
+alt="Lacnic 29" width="240" height="180" border="10" /></a>
 
 2. SECOMP UVA - **E se ao invés de Dev e Ops for DevOps? Uma introdução a cultura DevOps**
 
