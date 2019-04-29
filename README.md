@@ -20,6 +20,6 @@ Uma discussão sobre a privacidade na era onde dados são o novo petróleo]()
 
 ### Outros (apresentados em grupos na faculdade)
 * [Let's Encrypt for humans](https://github.com/edsoncelio/talks/blob/master/slides/Let%E2%80%99s%20Encrypt_%20SSL%252FTLS%20For%20Humans.pptx)
-* [Introdução ao Git|Hub|]()
+* [Introdução ao Git(Hub)]()
 
 
