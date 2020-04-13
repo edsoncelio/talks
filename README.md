@@ -1,6 +1,7 @@
 Repositório com materiais e links para as palestras/workshops que apresentei em alguns eventos.
 
 ## 2019
+* * **DevOpsDays Recife** - [Em terra de Infra as a Code quem testa é Rei!]()
 * **DevOpsDays SP** - [Aplicando práticas DevOps no fluxo de desenvolvimento de aplicações embarcadas](https://pt.slideshare.net/edsoncelio2013/aplicando-prticas-devops-no-fluxo-de-desenvolvimento-de-aplicaes-embarcadas)
 
 * **Roadsec Fortaleza** - [Quanto valem meus dados? 
