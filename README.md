@@ -1,6 +1,6 @@
 Repositório com materiais e links para as palestras/workshops que apresentei em alguns eventos.
 
-## 2019
+## 2020
 * **DevOpsDays Goiania (online)** -
 
 ## 2019
